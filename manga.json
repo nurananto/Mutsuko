@@ -1,0 +1,43 @@
+{
+  "manga": {
+    "title": "Mutsuko, Seiwo Tsukemasu!",
+    "alternativeTitle": "むつ子、精をつけます！",
+    "cover": "",
+    "description": "Satu bunga yang mewarnai kantor—Yamamori Mutsuko. Diam-diam, ia memendam perasaan pada atasannya… tapi tunggu dulu, apa nggak terlalu ekstrem caranya!? Beda usia diatasi dengan makanan penambah stamina! Inilah pembuka komedi romantis kantor penuh halu, dipersembahkan untuk seluruh pegawai kantoran yang kelelahan!",
+    "author": "Suu Anko",
+    "artist": "Suu Anko",
+    "genre": [
+      "Seinen",
+      "Comedy",
+      "Romance",
+      "Cooking",
+      "Office Workers",
+      "Slice of Life"
+    ],
+    "status": "ONGOING",
+    "views": 0,
+    "links": {
+      "mangadex": "https://mangadex.org/title/a254e51d-d8de-4c9a-9bbc-f9c16bcb1f69/mutsuko-seiwo-tsukemasu",
+      "raw": "https://comic-walker.com/detail/KC_007406_S/episodes/KC_0074060000300011_E?episodeType=latest"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/Mutsuko/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": [],
+    "type": "manga"
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "chapter": 1,
+      "folder": "1",
+      "uploadDate": "2026-01-02T18:58:23+07:00",
+      "totalPages": 41,
+      "pages": 41,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2026-01-02T18:59:09+07:00",
+  "lastChapterUpdate": "2026-01-02T18:58:23+07:00"
+}
