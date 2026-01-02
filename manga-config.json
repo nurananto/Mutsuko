@@ -2,7 +2,7 @@
   "type": "manga",
   "title": "Mutsuko, Seiwo Tsukemasu!",
   "alternativeTitle": "むつ子、精をつけます！",
-  "cover": "",
+  "cover": "https://cdn.nuranantoscans.my.id/covers/mutsuko-36154203-905a-4cfa-95c8-79682799eade.webp",
   "description": "Satu bunga yang mewarnai kantor—Yamamori Mutsuko. Diam-diam, ia memendam perasaan pada atasannya… tapi tunggu dulu, apa nggak terlalu ekstrem caranya!? Beda usia diatasi dengan makanan penambah stamina! Inilah pembuka komedi romantis kantor penuh halu, dipersembahkan untuk seluruh pegawai kantoran yang kelelahan!",
   "author": "Suu Anko",
   "artist": "Suu Anko",
@@ -25,6 +25,5 @@
   "repoName": "Mutsuko",
   "imagePrefix": "Image",
   "imageFormat": "webp",
-  "lockedChapters": [
-  ]
+  "lockedChapters": []
 }
