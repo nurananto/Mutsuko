@@ -46,8 +46,18 @@
       "pages": 30,
       "locked": false,
       "views": 102
+    },
+    "3": {
+      "title": "Chapter 3",
+      "chapter": 3,
+      "folder": "3",
+      "uploadDate": "2026-02-18T12:48:36+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
     }
   },
-  "lastUpdated": "2026-02-18T00:58:14+07:00",
-  "lastChapterUpdate": "2026-01-03T16:51:38+07:00"
+  "lastUpdated": "2026-02-18T12:49:18+07:00",
+  "lastChapterUpdate": "2026-02-18T12:48:36+07:00"
 }
