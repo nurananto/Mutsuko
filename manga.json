@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 403,
+    "views": 422,
     "links": {
       "mangadex": "https://mangadex.org/title/a254e51d-d8de-4c9a-9bbc-f9c16bcb1f69/mutsuko-seiwo-tsukemasu",
       "raw": "https://comic-walker.com/detail/KC_007406_S/episodes/KC_0074060000300011_E?episodeType=latest"
@@ -35,7 +35,7 @@
       "totalPages": 41,
       "pages": 41,
       "locked": false,
-      "views": 194
+      "views": 200
     },
     "2": {
       "title": "Chapter 2",
@@ -45,7 +45,7 @@
       "totalPages": 30,
       "pages": 30,
       "locked": false,
-      "views": 121
+      "views": 124
     },
     "3": {
       "title": "Chapter 3",
@@ -55,9 +55,9 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 43
+      "views": 48
     }
   },
-  "lastUpdated": "2026-02-21T00:44:55+07:00",
+  "lastUpdated": "2026-02-23T20:27:21.530Z",
   "lastChapterUpdate": "2026-02-18T12:48:36+07:00"
 }
