@@ -12,9 +12,7 @@
 | Judul Alternatif | むつ子、精をつけます！ |
 | Author | Suu Anko |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Seinen · Comedy · Romance · Cooking · Office Workers · Slice of Life |
-| Chapter | 3 chapter |
 
 ## Link
 
